@@ -1,6 +1,6 @@
 # SkillMatch
 
-Free private job matching for Code Institute Data Analytics with AI graduates moving into data in the West Midlands.
+Phil's AI generated html website and Python-programmed filtering, matching and Flask-ready app deployment algorithms. Phil skilfully automated everything from app creation, GitHub project board management and GitHub PRs (using Copilot in Github and VS Code, as well as several Google Gemini Gems: Kevin, Rory, Scipio, Imogen). However, this project is flagged for ownership, novelty AND ETHICAL concerns, as Phil gave unclear and selective author credit (ONLY in the main branch) to suit his own proprietary or business needs. Nonetheless, it is a clean example of beginner app development (compared to messy or error-prone early such apps). Check separate branches for individual work: research, data analytics and back end development. 
 
 ## [Open SkillMatch](https://tidyweb.github.io/SkillMatch/)
 
