@@ -52,7 +52,7 @@ The new team member also had the idea for such a tool, or at least provided the 
 
 I would have liked a more balanced team, but the junior members didn't seem to mind, so I went along with the arrangement. I hope that was okay! I also got to work on the things that interested me.
 
-If I were managing another hackathon team, I would probably insist more on having a balanced team and making sure team members were more transparent. Phil never explained the repository structure to us, even though he had built it using his AI agent, or possibly multiple AI agents. Given Phil's greater experience with software development and the existing application, I decided to learn from his approach rather than challenge the technical direction without sufficient knowledge of the underlying code. I thought it would be more valuable to learn from him, since he had a good plan.
+If I were managing another hackathon team, I would probably insist more on having a balanced team and making sure team members were more transparent. Phil never explained the repository structure to us, even though he had built it using his AI agent, or possibly multiple AI agents. Given Phil's greater experience with website development and the existing application, I decided to learn from his approach rather than challenge the technical direction without sufficient knowledge of the underlying code. I thought it would be more valuable to learn from him, since he had a good plan.
 
 However, in future projects, I would want greater transparency around the technical architecture and a more balanced distribution of opportunities for team members to contribute.
 
